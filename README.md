@@ -4,4 +4,4 @@ At times, you may find that orphaned vhdx and avhdx files are filling up your ph
 
 Before you delete any files, be sure to validate the result of the script. Better move the disks to a temporary location first, make yourself a note of the source folder and check if all VMs are still working before the final deletion. A backup will give you additional certainty that you don’t lose any machines that are still required.
 
-See https://sysmanrec.com/clean-up-unused-hyper-v-disks-with-powershell for an examples
+See https://sysmanrec.com/clean-up-unused-hyper-v-disks-with-powershell for an example
